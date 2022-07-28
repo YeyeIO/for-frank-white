@@ -1,0 +1,5 @@
+.env
+.chains
+bin
+.DS_Store
+dist/
